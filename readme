@@ -21,7 +21,7 @@ The 'incomplete' file is the one to be modified, if you are stuck feel free to r
 
 ### Cloning the Repo:
 
-> git clone https://github.com/egokul71435/your-repo.git
+> git clone https://github.com/egokul71435/clai
 > cd your-repo
 
 ### Conda setup:
@@ -39,6 +39,6 @@ The 'incomplete' file is the one to be modified, if you are stuck feel free to r
 
 ### Environment variables:
 
-> API_KEY=your-api-key
+> GROQ_API_KEY=your-api-key
 
 ### Now, you can get started!
