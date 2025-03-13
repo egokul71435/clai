@@ -1,0 +1,44 @@
+# CLAI Project
+
+## Overview
+
+The CLAI (Custom Language AI) project is designed to provide a comprehensive solution for natural language processing tasks. This project aims to develop a robust and efficient AI model that can understand and generate human language with high accuracy.
+
+## Features
+
+- **Natural Language Understanding**: Ability to comprehend and interpret human language.
+- **Natural Language Generation**: Generate human-like text based on given input.
+- **Customizable Models**: Tailor the AI models to specific use cases and requirements.
+- **Scalable Architecture**: Designed to handle large-scale data and processing.
+
+## Prerequisites
+- Python 3.8+ (if not using Conda, install Python manually)
+- Conda (or pip)
+
+## Getting Started
+
+The 'incomplete' file is the one to be modified, if you are stuck feel free to refer to the 'complete' file.
+
+### Cloning the Repo:
+
+> git clone https://github.com/egokul71435/your-repo.git
+> cd your-repo
+
+### Conda setup:
+
+> conda env create -f environment.yml
+> conda activate your-env-name
+
+### Local Python setup:
+
+> pip install -r requirements.txt
+
+### To start the program:
+
+> python incomplete.py
+
+### Environment variables:
+
+> API_KEY=your-api-key
+
+### Now, you can get started!
